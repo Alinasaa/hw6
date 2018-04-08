@@ -14,12 +14,14 @@ Brauch - немецкий глагол "нуждаться", может такж
 
 ![Задание 2.1](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2015.58.40.png)
 
-![Задание 2.2]()
+![Задание 2.2](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2018.07.25.png)
 
-Steal something (a phone) и rob (a bank).  
+Steal something (a phone), то есть **украсть** что-то и rob (a bank) то есть, **ограбить** что-то/кого-то. Значит, слово cash может употребляться с глаголом steal, а не rob, а слово office - с глаголом rob, а не steal.
 
 ![Задание 2.3](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2016.12.16.png)
 
 ![Задание 2.3](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2016.13.42.png)
 
 ![Задание 2.3](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2016.16.42.png)
+
+Разница есть, она заключается скорее всего в том, что корпус текстов в Ngram больше. Слово lion 
