@@ -14,9 +14,9 @@ Brauch - немецкий глагол "нуждаться", может такж
 
 ![Задание 2.1](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2015.58.40.png)
 
-![Задание 2.2]()
+![Задание 2.2](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2017.51.22.png)
 
-
+Steal something (a phone) и rob (a bank) - значит, слово mink или cattle может употребляться только с глаголом steal. А война может только грабить (то есть rob), а не украсть (steal).
 
 ![Задание 2.3](https://raw.githubusercontent.com/Alinasaa/hw6/master/Снимок%20экрана%202018-04-08%20в%2016.12.16.png)
 
